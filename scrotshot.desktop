@@ -1,0 +1,10 @@
+[Desktop Entry]
+Icon=screenshot
+Name=scrotshot
+Comment=A shortcut to scrot
+Exec=bash -c '$HOME/bin/scrotshot'
+Terminal=false
+Type=Application
+Categories=Utility
+StartupNotify=false
+Keywords=Screenshot;
